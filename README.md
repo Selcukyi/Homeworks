@@ -1,3 +1,4 @@
 # Homeworks
 
-Homeworks of Sabanci University Courses CS300 and cs305
+Homeworks of Sabanci University Computer Science 
+
